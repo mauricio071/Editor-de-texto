@@ -6,7 +6,7 @@
   <img alt="Repository Size" src="https://img.shields.io/github/repo-size/mauricio071/Editor-de-texto?color=00bfa6">
 </p>
 
-
+![Preview-Screens](https://github.com/mauricio071/Editor-de-texto/blob/master/readme-img.png)
 
 ## 📋 Funcionalidades Principais
 Esta aplicação, desenvolvida em C# e .NET Framework, permite:

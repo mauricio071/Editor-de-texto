@@ -22,8 +22,8 @@ Esta aplicação, desenvolvida em C# e .NET Framework, permite:
 - **C#** - Linguagem de programação usada para o desenvolvimento da aplicação
 - **.NET Framework** - Framework utilizado para dar suporte ao desenvolvimento e execução da aplicação
 
-## 🌐 Baixar o instalador do projeto
-Você pode baixar o instalador do projeto [aqui](https://github.com/mauricio071/Editor-de-texto/raw/master/instalador/Instalador_editor_de_texto/Instalador_editor_de_texto.rar).
+## 🌐 Download do Instalador do Projeto
+Você pode baixar o instalador do projeto diretamente [aqui](https://github.com/mauricio071/Editor-de-texto/raw/master/instalador/Instalador_editor_de_texto/Instalador_editor_de_texto.rar) e começar a utilizar o Sistema de Academia na sua máquina.
 
 ## 🖥️ Como configurar o projeto
 Siga os passos abaixo para instalar e executar o projeto em seu ambiente local:

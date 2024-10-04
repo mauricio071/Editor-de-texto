@@ -14,6 +14,7 @@ Esta aplicação, desenvolvida em C# e .NET Framework, permite:
 - **Criação de Arquivos**: Crie novos documentos de texto de forma simples.
 - **Edição de Texto**: Edite textos já existentes com suporte às funções básicas de edição.
 - **Salvar Arquivos**: Salve documentos editados no formato que você desejar diretamente no seu computador.
+- **Impressão do arquivo**: Imprima documentos diretamente da aplicação.
 - **Interface Simples e Intuitiva**: O design da aplicação foi pensado para ser de fácil entendimento.
 
 ## 🛠 Tecnologias utilizadas
